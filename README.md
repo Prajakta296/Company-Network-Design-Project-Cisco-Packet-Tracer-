@@ -8,9 +8,9 @@ It demonstrates end-to-end configuration of LAN, inter-VLAN routing, DHCP, OSPF,
 
 🧩 Network Topology
 The topology includes:
-- 2 Routers
-- 3 Layer 3 Switches (Multilayer)
-- 2 Layer 2 Switches
+- Routers
+- Layer 3 Switches (Multilayer)
+- Layer 2 Switches
 - DHCP Server
 - Wireless Access Point
 - End devices (PCs, Laptops, Printers, etc.)
