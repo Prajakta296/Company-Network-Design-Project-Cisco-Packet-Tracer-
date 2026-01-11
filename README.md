@@ -8,7 +8,7 @@ It demonstrates end-to-end configuration of LAN, inter-VLAN routing, DHCP, OSPF,
 
 🧩 Network Topology
 The topology includes:
-- 3 Routers
+- 2 Routers
 - 3 Layer 3 Switches (Multilayer)
 - 2 Layer 2 Switches
 - DHCP Server
